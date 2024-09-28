@@ -71,3 +71,13 @@ Model Interpretability: How could you visualize the model's coefficients or use 
 
 
 This project can be considered a starting point for further exploration and experimentation with machine learning in the domain of medical insurance pricing.
+
+This project can be considered a starting point for further exploration and experimentation with machine learning in the domain of medical insurance pricing.
+
+References: 
+Medical Insurance Price Prediction using Machine Learning - Python
+https://www.geeksforgeeks.org/medical-insurance-price-prediction-using-machine-learning-python/
+
+License:
+This project is licensed under the MIT License. See the LICENSE file for details.
+
